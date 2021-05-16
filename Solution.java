@@ -4,8 +4,6 @@ import java.util.Comparator;
 
 public class Solution {
 
-  public static void main(String[] args) {
-
   public TrieNode root;
   public String[] words;
 
